@@ -29,7 +29,7 @@ Note: The filename can be altered to the directory or filepath of the file.
 ### Final Design
 <img width="4950" height="4505" alt="image" src="https://github.com/user-attachments/assets/9546608a-c458-45ff-ba0b-950b0f957341" />
 
-## [Pseudo Code](ECE-2310-Group-Project/Pseudo Code ECE 2310 Group Project Part 2.pdf)
+## [Pseudo Code](https://github.com/mjlt42/ECE-2310-Group-Project/blob/main/Pseudo%20Code%20ECE%202310%20Group%20Project%20Part%202.pdf)
 
 
 ## Collaborators
