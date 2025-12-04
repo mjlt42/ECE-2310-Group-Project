@@ -8,3 +8,4 @@ Repository containing all code and UMLs for the project
 - Matthew Lopez Tarsky 👑
 - Donna La (:
 - Ethan Wong
+- Eric Reynosa
