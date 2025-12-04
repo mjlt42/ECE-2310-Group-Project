@@ -11,7 +11,10 @@ Repository containing all code and UMLs for the project
 - Handle multiple files.
   
 ## UML Diagram
+### Initial Design
 <img width="4950" height="4475" alt="image" src="https://github.com/user-attachments/assets/86009265-8351-4171-b995-b80cae7addbc" />
+### Final Design
+<img width="4950" height="4505" alt="image" src="https://github.com/user-attachments/assets/9546608a-c458-45ff-ba0b-950b0f957341" />
 
 ## Collaborators
 - Matthew Lopez Tarsky 👑
