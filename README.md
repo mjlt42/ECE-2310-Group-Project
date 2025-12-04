@@ -5,5 +5,5 @@ Repository containing all code and UMLs for the project
 <img width="4950" height="4475" alt="image" src="https://github.com/user-attachments/assets/86009265-8351-4171-b995-b80cae7addbc" />
 
 ## Collaborators
-- Matthew Lopez Tarsky
+- Matthew Lopez Tarsky 👑
 - Donna La (:
