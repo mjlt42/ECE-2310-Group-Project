@@ -7,3 +7,4 @@ Repository containing all code and UMLs for the project
 ## Collaborators
 - Matthew Lopez Tarsky 👑
 - Donna La (:
+- Ethan Wong
