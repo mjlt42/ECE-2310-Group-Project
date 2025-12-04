@@ -9,7 +9,18 @@ Repository containing all code and UMLs for the project
 - Organize data into sublevels.
 - Alter data using a "Hub" (Convert Fahrenheit to Celsius).
 - Handle multiple files.
-  
+
+## Explanations:
+
+- **DataRecord** is an instance of all the data at one time stamp, so like humidity, light, etc. (One row of data).
+- **DataRead** is an instance of ALL  **DataRecord**s from a single file (using a vector).
+- **DataStorage** is an instance of ALL **DataRead**s (using a vector). This allows the system to handle multiple files if needed. **DataRead**s is essentially an entire file. 
+- The **Hub** then uses the **DataStorage** to access each DataRead and each **DataRecord**. 
+- **DataStorage**, **DataRead**, and **DataRecord** all have member functions to access their private data, which means they can access each piece of information. This allows the **Hub** to handle any piece of data and process it.
+- **DataWrite** is the class that handles taking the **DataRead** objects from the **Hub** and writing them to a file.
+
+Note: The filename can be altered to the directory or filepath of the file.
+
 ## UML Diagram
 
 ### Initial Design
